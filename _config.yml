@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexander Liu / Site Title"
+title                    : "Alexander Liu"
 title_separator          : "-"
 name                     : &name "Alexander Liu"
 description              : &description "Researcher | Data Scientist | Environmentalist"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Alexander Liu"
   avatar           : "head_shot.jpg"
-  bio              : "Post-Baccalaureate researcher at the National Institues of Health"
+  bio              : "Researcher | Data Scientist | Environmentalist \n \n Post-Baccalaureate Researcher at the National Institues of Health"
   location         : "Washington D.C."
   employer         :
   pubmed           :
   googlescholar    :
-  email            : Alex.g.liu@gmail.com
+  email            : "Alex.g.liu@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "liualg"
   google_plus      :
   keybase          :
   instagram        :
