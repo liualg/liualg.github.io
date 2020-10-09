@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alexander Liu"
   avatar           : "head_shot.jpg"
-  bio              : "Researcher | Analyst | Environmentalist <br> <br> <em style='color: black;'> Post-Baccalaureate Researcher at the National Institues of Health </em>"
+  bio              : "Researcher | Analyst | Environmentalist <br> <br> <span style='color: black;'> Post-Baccalaureate Researcher at the National Institues of Health </span>"
   location         : "Washington D.C."
   employer         :
   pubmed           :
