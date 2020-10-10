@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-Welcome! I'm Alexander, a post-bacculorate researcher at the National Institute of Mental Health. My undergraduate degree in philosophy and biology paved a path towards neuro-psychology. This unique field lets me to answer metaphysical questions through quantitative means. My work in this area has lead me down many avenues, including linguistics, history, and computer science.     
+Welcome! I'm Alexander, a post-baccalaureate researcher at the National Institute of Mental Health. My undergraduate degree in philosophy and biology paved a path towards neuropsychology. This unique field lets me to answer metaphysical questions through quantitative means. My work in this area has lead me down many avenues, including linguistics, history, and computer science.     
 
 Work and Research
 ======
