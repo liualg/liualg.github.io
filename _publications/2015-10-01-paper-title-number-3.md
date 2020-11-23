@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Viewing pictures of foods elicits taste-specific activity in gustatory insular cortex"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2020-10-02-pictures
+excerpt: 'Grounded theories of cognition claim that the neural substrates involved in object perception support both the perceptual and conceptual processing of those objects. Thus, the conceptual representation of food should involve brain regions associated with taste perception. This idea is supported by previous human neuroimaging research showing that viewing pictures of food (vs. non-food objects) activated taste-responsive regions of the insular cortex, thus suggesting that these pictures trigger an automatic retrieval of taste property information associated with the depicted foods. While suggestive, these findings do not indicate whether these representations contain specific information about the taste qualities of the depicted foods (i.e. whether a food is predominantly sweet, sour, or salty). To explore this question, we examined food-related responses within the human brain using ultra-high resolution functional magnetic resonance imaging (MRI) at high magnetic field strength (7-Tesla).'
+date: 2020-10-02
+venue: 'Journal of Vision'
+paperurl: 'https://jov.arvojournals.org/article.aspx?articleid=2771833'
+citation: 'Viewing pictures of foods elicits taste-specific activity in gustatory insular cortex
+Jason A. Avery; Alexander G. Liu; John E. Ingeholm; Stephen J. Gotts; Alex Martin.
+Journal of Vision October 2020, Vol.20, 882. doi:https://doi.org/10.1167/jov.20.11.882'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://jov.arvojournals.org/article.aspx?articleid=2771833)
