@@ -55,14 +55,14 @@ Work experience
 Skills
 ======
  * Programing Languages
-  * Python | experienced 
-  * R      | experienced 
-  * Matlab | proficient 
-  * Unix   | proficient
-  * AFNI   | proficient
-  * C#     | learning
-  * HTML   | learning 
-  * JS     | learning
+  * Python &#124; experienced 
+  * R      &#124; experienced 
+  * Matlab &#124; proficient 
+  * Unix   &#124; proficient
+  * AFNI   &#124; proficient
+  * C#     &#124; learning
+  * HTML   &#124; learning 
+  * JS     &#124; learning
 * Mircosoft Suites 
   * Word
   * Excel
