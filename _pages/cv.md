@@ -32,7 +32,7 @@ Work experience
    * Serving as liaison between NIH, the mental health clinics, and other research groups
   * Supervisor: Dr. Alex Martin, Dr. Jason Avery
 
-* Prime Consulting | 2016 - 2018
+* Prime Consulting &#124; 2016 - 2018
   * Consultant
   * Atlanta, GA
   * Duties included: 
@@ -43,7 +43,7 @@ Work experience
    * Presented the strategic recommendations to client and the executive team
   * Supervisor: Maeve Morris
   
- * Dilks Lab | 2016 - 2018
+ * Dilks Lab &#124; 2016 - 2018
   * Research Assistant 
   * Emory Universty, Georgia 
   * Duties included:
