@@ -54,8 +54,8 @@ Work experience
   
 Skills
 ======
- * Programing Languages
-  * Python &#124; experienced 
+* Programing Languages
+  * Python &#124; experienced
   * R      &#124; experienced 
   * Matlab &#124; proficient 
   * Unix   &#124; proficient
