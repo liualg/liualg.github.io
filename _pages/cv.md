@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-* Post-baccalaureate Research Fellow | 2018 - Present
+* Post-baccalaureate Research Fellow &#124; 2018 - Present
   * Intramural Research Training Award
   * National Institute of Mental Health
   * Duties included: 
