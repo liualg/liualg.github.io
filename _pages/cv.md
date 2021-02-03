@@ -22,10 +22,10 @@ Education
 Work experience
 ======
 **Post-baccalaureate Research Fellow &#124; 2018 - Present**
-* Intramural Research Training Award
-* National Institute of Mental Health
-* Designs behavioral and functional magnetic resonance imaging (fMRI) experiments, implements large-scale data driven analysis, coordinates between NIH and other research groups, and presents findings at local and national conferences
-*Selected Project Experience*
+Intramural Research Training Award  
+National Institute of Mental Health  
+* Designs behavioral and functional magnetic resonance imaging (fMRI) experiments, implements large-scale data driven analysis, coordinates between NIH and other research groups, and presents findings at local and national conferences  
+*Selected Project Experience*  
 * *Food Picture: Regressors Analysis (current)*
   * Aggregated data from multiple sources for caloric density, fat content, and sugar density for our stimuli set
   * Designed behavioral web based experiments in Amazon Mechanical Turk (mTurk) to find core dimensions of food and object representations in real-world images
@@ -41,10 +41,10 @@ Work experience
 * Supervisor: Dr. Alex Martin, Dr. Jason Avery
 
 **Prime Consulting &#124; 2016 - 2018**
-* Consultant
-* Atlanta, GA
-* Offered strong business analysis, deliverable creation, market research, and project management skills
-*Selected Project Experience*
+Consultant  
+Atlanta, GA  
+* Offered strong business analysis, deliverable creation, market research, and project management skills  
+*Selected Project Experience*  
 * Market sizing research effort for a French geo-analysis company
   * Drove a market sizing research effort to show the client possibilities of expanding business into North America
   * Explored data from multiple platforms and created visualizations for comprehensive “decks”
@@ -53,8 +53,8 @@ Work experience
 
   
 **Dilks Lab &#124; 2016 - 2018**
-* Research Assistant 
-* Emory Universty, Georgia
+Research Assistant  
+Emory Universty, Georgia  
 * Designed behavioral and functional magnetic resonance imaging (fMRI) experiments, implemented data driven analysis, managed and maintained medcial documentaion, and presented findings at conferences
 * Duties included:
   * Created and implimented human behavioral tasks 
