@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-**Post-baccalaureate Research Fellow &#124; 2018 - Present**
+**Post-baccalaureate Research Fellow &#124; 2018 - Present**  
 Intramural Research Training Award  
 National Institute of Mental Health  
 * Designs behavioral and functional magnetic resonance imaging (fMRI) experiments, implements large-scale data driven analysis, coordinates between NIH and other research groups, and presents findings at local and national conferences  
@@ -40,7 +40,7 @@ National Institute of Mental Health
 
 * Supervisor: Dr. Alex Martin, Dr. Jason Avery
 
-**Prime Consulting &#124; 2016 - 2018**
+**Prime Consulting &#124; 2016 - 2018**  
 Consultant  
 Atlanta, GA  
 * Offered strong business analysis, deliverable creation, market research, and project management skills  
@@ -52,7 +52,7 @@ Atlanta, GA
   * Served as liaison between the client and other research teams, effectively communicating risks and requirements of expansion into the U.S. market 
 
   
-**Dilks Lab &#124; 2016 - 2018**
+**Dilks Lab &#124; 2016 - 2018**  
 Research Assistant  
 Emory Universty, Georgia  
 * Designed behavioral and functional magnetic resonance imaging (fMRI) experiments, implemented data driven analysis, managed and maintained medcial documentaion, and presented findings at conferences
