@@ -12,11 +12,14 @@ redirect_from:
 Education
 ======
 * B.S. Biology, Emory University, 2018
-* B.S. Philosophy, Emory University, 2018
+* B.A. Philosophy, Emory University, 2018
 * Course Credit, NIH FAES, 2020
   * Basic Principles of Immunology and Hypersensitivity
   * Applied Machine Learning
   * Vision of NeuroScience 
+* Google Data Analytics Certificate, Coursera, 2021
+  * A rigorous hands-on program that covers teh entire scope of the data analysis process
+  * Capstone project: gaining insight into how consumers are using their smart devices
 
 
 Work experience
